@@ -99,16 +99,6 @@
 
 <div align="center">
 
-### ◈ &nbsp; CONTRIBUTION GRAPH &nbsp; ◈
-
-<img width="100%" src="./contributions.svg" alt="Contribution graph" />
-
-</div>
-
----
-
-<div align="center">
-
 **DESIGN FIRST** &nbsp;◆&nbsp; **CLEAN & SCALABLE** &nbsp;◆&nbsp; **ALWAYS LEARNING**
 
 <a href="https://fitri-portfolio-v3.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-C9485B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
