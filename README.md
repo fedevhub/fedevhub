@@ -53,7 +53,6 @@
 <img src="https://img.shields.io/badge/ESLint-C9485B?style=flat-square&logo=eslint&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-C9485B?style=flat-square&logo=vercel&logoColor=white" />
 <br/>
-<sub>EXPLORING &nbsp;▸</sub>
 <img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-171717?style=flat-square&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-171717?style=flat-square&logo=tailwindcss&logoColor=white" />
