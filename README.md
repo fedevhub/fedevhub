@@ -87,13 +87,19 @@
 
 ---
 
+
 <div align="center">
 
 ### ◈ &nbsp; GITHUB STREAK &nbsp; ◈
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=fedevhub&theme=dark&hide_border=true&background=0D0B0F&ring=C9485B&fire=E11D48&currStreakLabel=C9485B&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A9A9A" />
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com/?user=fedevhub&theme=dark&hide_border=true&background=0D0B0F&ring=C9485B&fire=E11D48&currStreakLabel=C9485B&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A9A9A"
+  alt="GitHub Streak Statistics"
+/>
 
 </div>
+
 
 ---
 
