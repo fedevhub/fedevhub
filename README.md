@@ -88,16 +88,21 @@
 ---
 
 <div align="center">
+
 ### ◈ &nbsp; GITHUB STREAK &nbsp; ◈
- 
+
 <img width="70%" src="https://streak-stats.demolab.com/?user=fedevhub&theme=dark&hide_border=true&background=0D0B0F&ring=C9485B&fire=E11D48&currStreakLabel=C9485B&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A9A9A" />
+
 </div>
+
 ---
- 
+
 <div align="center">
+
 ### ◈ &nbsp; CONTRIBUTION GRAPH &nbsp; ◈
- 
+
 <img width="100%" src="https://raw.githubusercontent.com/fedevhub/fedevhub/output/github-snake-dark.svg" alt="Contribution graph" />
+
 </div>
 
 ---
