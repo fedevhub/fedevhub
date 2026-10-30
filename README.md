@@ -101,7 +101,7 @@
 
 ### ◈ &nbsp; CONTRIBUTION GRAPH &nbsp; ◈
 
-<img width="100%" src="https://raw.githubusercontent.com/fedevhub/fedevhub/output/github-snake-dark.svg" alt="Contribution graph" />
+<img width="100%" src="./contributions.svg" alt="Contribution graph" />
 
 </div>
 
