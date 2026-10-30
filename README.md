@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="./assets/header.svg" alt="Fitri Rachmania - Frontend Developer" />
+<img width="100%" src="./header.svg" alt="Fitri Rachmania - Frontend Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=C9485B&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Fitri+Rachmania+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Software+Engineering+Student+%40+SMKN+8+Malang;Building+Ideas+Into+Digital+Experiences" />
 
